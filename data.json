@@ -1,0 +1,1714 @@
+[
+  {
+    "ID": "10824229",
+    "Ngày Giờ": "2026-02-26T06:46:00.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Xôi gà chú Năm",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "26/02/2026 13:46"
+  },
+  {
+    "ID": "b07fbe76",
+    "Ngày Giờ": "2026-02-27T00:47:00.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "Bánh mì heo quay, bánh bao",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "27/02/2026 07:47"
+  },
+  {
+    "ID": "d1233dbd",
+    "Ngày Giờ": "2026-02-27T06:50:41.000Z",
+    "Số tiền": 88000,
+    "Ghi chú": "Sủi cảo mì khô nước",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "27/02/2026 13:50"
+  },
+  {
+    "ID": "a1d7e625",
+    "Ngày Giờ": "2026-02-28T02:08:37.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Mẹ ra bến xe",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "28/02/2026 09:08"
+  },
+  {
+    "ID": "8832632e",
+    "Ngày Giờ": "2026-02-28T08:46:35.000Z",
+    "Số tiền": 90000,
+    "Ghi chú": "Bánh cuốn + chả chiên",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "28/02/2026 15:46"
+  },
+  {
+    "ID": "8b0f03ac",
+    "Ngày Giờ": "2026-03-02T00:30:06.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xe ôm mẹ về nhà",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "02/03/2026 07:30"
+  },
+  {
+    "ID": "a9f41710",
+    "Ngày Giờ": "2026-03-02T05:54:46.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "02/03/2026 12:54"
+  },
+  {
+    "ID": "bbcb8340",
+    "Ngày Giờ": "2026-03-03T03:39:13.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "03/03/2026 10:39"
+  },
+  {
+    "ID": "1d7a6bac",
+    "Ngày Giờ": "2026-03-03T09:47:40.000Z",
+    "Số tiền": 69000,
+    "Ghi chú": "Bánh cuốn 3 miền",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "03/03/2026 16:47"
+  },
+  {
+    "ID": "e0808d9f",
+    "Ngày Giờ": "2026-03-04T04:19:29.000Z",
+    "Số tiền": 71000,
+    "Ghi chú": "Sữa chua nếp cẩm bánh mì bà Win",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "04/03/2026 11:19"
+  },
+  {
+    "ID": "4f64f99b",
+    "Ngày Giờ": "2026-03-05T01:24:36.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Sủi cảo nước",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "05/03/2026 08:24"
+  },
+  {
+    "ID": "9e51752f",
+    "Ngày Giờ": "2026-03-05T06:31:45.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "Hủ tiếu Nam bò viên",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "05/03/2026 13:31"
+  },
+  {
+    "ID": "fa43284f",
+    "Ngày Giờ": "2026-03-05T06:31:58.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "05/03/2026 13:31"
+  },
+  {
+    "ID": "4a8bb590",
+    "Ngày Giờ": "2026-03-07T05:45:52.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Xe ôm Mẹ đi bệnh viện",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "07/03/2026 12:45"
+  },
+  {
+    "ID": "d0bfa606",
+    "Ngày Giờ": "2026-03-07T05:46:22.000Z",
+    "Số tiền": 77000,
+    "Ghi chú": "Xe ôm đi nhậu",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "07/03/2026 12:46"
+  },
+  {
+    "ID": "cb3177fb",
+    "Ngày Giờ": "2026-03-07T05:46:44.000Z",
+    "Số tiền": 29000,
+    "Ghi chú": "Xe ôm đi cà phê",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "07/03/2026 12:46"
+  },
+  {
+    "ID": "b00f3bc1",
+    "Ngày Giờ": "2026-03-07T05:47:16.000Z",
+    "Số tiền": 43000,
+    "Ghi chú": "Xe ôm lên công ty",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "07/03/2026 12:47"
+  },
+  {
+    "ID": "1894d1e7",
+    "Ngày Giờ": "2026-03-07T12:42:58.000Z",
+    "Số tiền": 115000,
+    "Ghi chú": "Ba phần phở gân",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "07/03/2026 19:42"
+  },
+  {
+    "ID": "d18978e8",
+    "Ngày Giờ": "2026-03-09T00:56:04.000Z",
+    "Số tiền": 69000,
+    "Ghi chú": "Bánh mì heo quay xôi khúc",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "09/03/2026 07:56"
+  },
+  {
+    "ID": "71bdf481",
+    "Ngày Giờ": "2026-03-09T07:46:56.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "09/03/2026 14:46"
+  },
+  {
+    "ID": "b36be47d",
+    "Ngày Giờ": "2026-03-11T07:51:34.000Z",
+    "Số tiền": 71000,
+    "Ghi chú": "Bánh mì bà Huynh sữa chua nếp cẩm bánh flan",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "11/03/2026 14:51"
+  },
+  {
+    "ID": "99e8223d",
+    "Ngày Giờ": "2026-03-12T01:22:03.000Z",
+    "Số tiền": 57000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "12/03/2026 08:22"
+  },
+  {
+    "ID": "067e45b9",
+    "Ngày Giờ": "2026-03-13T06:12:41.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "Bánh cuốn 3 miền",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "13/03/2026 13:12"
+  },
+  {
+    "ID": "e1f23e88",
+    "Ngày Giờ": "2026-03-15T05:59:43.000Z",
+    "Số tiền": 106000,
+    "Ghi chú": "Bánh cuốn",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "15/03/2026 12:59"
+  },
+  {
+    "ID": "b003aadb",
+    "Ngày Giờ": "2026-03-16T06:14:50.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "16/03/2026 13:14"
+  },
+  {
+    "ID": "578637f2",
+    "Ngày Giờ": "2026-03-17T00:07:48.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xe ôm đón mẹ về",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "17/03/2026 07:07"
+  },
+  {
+    "ID": "25c8aed7",
+    "Ngày Giờ": "2026-03-17T00:35:57.000Z",
+    "Số tiền": 49000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "17/03/2026 07:35"
+  },
+  {
+    "ID": "2e5553cb",
+    "Ngày Giờ": "2026-03-19T01:14:23.000Z",
+    "Số tiền": 58000,
+    "Ghi chú": "Sủi cảo nước",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "19/03/2026 08:14"
+  },
+  {
+    "ID": "bfcda705",
+    "Ngày Giờ": "2026-03-21T10:24:56.000Z",
+    "Số tiền": 106000,
+    "Ghi chú": "Bánh cuốn",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "21/03/2026 17:24"
+  },
+  {
+    "ID": "e51d2bfa",
+    "Ngày Giờ": "2026-03-21T23:44:23.000Z",
+    "Số tiền": 80000,
+    "Ghi chú": "Đặt xe cho mẹ",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "22/03/2026 06:44"
+  },
+  {
+    "ID": "a104257a",
+    "Ngày Giờ": "2026-03-23T01:22:02.000Z",
+    "Số tiền": 72000,
+    "Ghi chú": "Bánh mì heo quay xôi khúc chà bông",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "23/03/2026 08:22"
+  },
+  {
+    "ID": "4c02705b",
+    "Ngày Giờ": "2026-03-23T10:17:34.000Z",
+    "Số tiền": 67000,
+    "Ghi chú": "Bánh Giầy bánh flan sữa chua Bà huynh",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "23/03/2026 17:17"
+  },
+  {
+    "ID": "9982c833",
+    "Ngày Giờ": "2026-03-24T03:39:06.000Z",
+    "Số tiền": 61000,
+    "Ghi chú": "Hai phần sủi cảo",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "24/03/2026 10:39"
+  },
+  {
+    "ID": "8197ff3d",
+    "Ngày Giờ": "2026-03-24T12:12:15.000Z",
+    "Số tiền": 62000,
+    "Ghi chú": "Năm cái bánh flan",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "24/03/2026 19:12"
+  },
+  {
+    "ID": "cacf0447",
+    "Ngày Giờ": "2026-03-24T12:12:44.000Z",
+    "Số tiền": 63000,
+    "Ghi chú": "Năm cái bánh flan",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "24/03/2026 19:12"
+  },
+  {
+    "ID": "e0a602c0",
+    "Ngày Giờ": "2026-03-25T06:57:12.000Z",
+    "Số tiền": 78000,
+    "Ghi chú": "Bánh bột lọc nhân tôm",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "25/03/2026 13:57"
+  },
+  {
+    "ID": "fabe0521",
+    "Ngày Giờ": "2026-03-25T07:14:34.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "Kem bơ dừa",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "25/03/2026 14:14"
+  },
+  {
+    "ID": "b5c2619c",
+    "Ngày Giờ": "2026-03-25T08:46:37.000Z",
+    "Số tiền": 99000,
+    "Ghi chú": "Bún đậu mắm tôm",
+    "Tháng": "03/2026",
+    "Ngay_Gio_Vietnam": "25/03/2026 15:46"
+  },
+  {
+    "ID": "2919f355",
+    "Ngày Giờ": "2026-03-26T14:48:56.000Z",
+    "Số tiền": 61000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "26/03/2026 21:48"
+  },
+  {
+    "ID": "56805241",
+    "Ngày Giờ": "2026-03-27T08:05:08.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "Xôi bà huynh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "27/03/2026 15:05"
+  },
+  {
+    "ID": "c4790fa1",
+    "Ngày Giờ": "2026-03-27T15:52:44.000Z",
+    "Số tiền": 65000,
+    "Ghi chú": "Đặt xe bốn chỗ",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "27/03/2026 22:52"
+  },
+  {
+    "ID": "49bff5fc",
+    "Ngày Giờ": "2026-03-29T11:36:13.000Z",
+    "Số tiền": 29000,
+    "Ghi chú": "Xe ôm hai bánh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "29/03/2026 18:36"
+  },
+  {
+    "ID": "558e0ed4",
+    "Ngày Giờ": "2026-03-29T11:36:37.000Z",
+    "Số tiền": 29000,
+    "Ghi chú": "Xe ôm hai bánh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "29/03/2026 18:36"
+  },
+  {
+    "ID": "0734a2df",
+    "Ngày Giờ": "2026-03-29T11:36:53.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xe ôm hai bánh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "29/03/2026 18:36"
+  },
+  {
+    "ID": "732b8845",
+    "Ngày Giờ": "2026-03-29T11:37:16.000Z",
+    "Số tiền": 128000,
+    "Ghi chú": "Bốn phần sủi cảo",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "29/03/2026 18:37"
+  },
+  {
+    "ID": "2f7ee3a2",
+    "Ngày Giờ": "2026-03-29T11:37:31.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "Xe ôm hai bánh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "29/03/2026 18:37"
+  },
+  {
+    "ID": "38c9d120",
+    "Ngày Giờ": "2026-03-30T08:20:39.000Z",
+    "Số tiền": 39000,
+    "Ghi chú": "Mua gói tiết kiệm",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "30/03/2026 15:20"
+  },
+  {
+    "ID": "601428c1",
+    "Ngày Giờ": "2026-03-30T08:20:52.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "30/03/2026 15:20"
+  },
+  {
+    "ID": "cf2cfa15",
+    "Ngày Giờ": "2026-03-31T05:59:36.000Z",
+    "Số tiền": 60000,
+    "Ghi chú": "Xôi ngon Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "31/03/2026 12:59"
+  },
+  {
+    "ID": "7397218b",
+    "Ngày Giờ": "2026-03-31T05:59:53.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "Hủ tiếu mì Oh bé",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "31/03/2026 12:59"
+  },
+  {
+    "ID": "4194ea09",
+    "Ngày Giờ": "2026-04-02T01:03:39.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Hai sủi cảo nước",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "02/04/2026 08:03"
+  },
+  {
+    "ID": "1ab9d2bf",
+    "Ngày Giờ": "2026-04-02T05:57:27.000Z",
+    "Số tiền": 60000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "02/04/2026 12:57"
+  },
+  {
+    "ID": "c5e9eda6",
+    "Ngày Giờ": "2026-04-07T00:49:12.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Hai sủi cảo nước",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "07/04/2026 07:49"
+  },
+  {
+    "ID": "e4f25fe1",
+    "Ngày Giờ": "2026-04-07T05:06:55.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "Hủ tiếu mì Oh bé",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "07/04/2026 12:06"
+  },
+  {
+    "ID": "fd07629d",
+    "Ngày Giờ": "2026-04-08T00:01:01.000Z",
+    "Số tiền": 47000,
+    "Ghi chú": "Xe ôm đi bệnh viện",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "08/04/2026 07:01"
+  },
+  {
+    "ID": "d5440c1a",
+    "Ngày Giờ": "2026-04-08T06:17:23.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Xe ôm bệnh viện về",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "08/04/2026 13:17"
+  },
+  {
+    "ID": "92be2f8d",
+    "Ngày Giờ": "2026-04-08T06:17:38.000Z",
+    "Số tiền": 55000,
+    "Ghi chú": "Xôi mặn sữa chua nếp cẩm bà Huỳnh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "08/04/2026 13:17"
+  },
+  {
+    "ID": "8c51f65c",
+    "Ngày Giờ": "2026-04-09T01:09:20.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Hai bánh mì heo quay",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "09/04/2026 08:09"
+  },
+  {
+    "ID": "a14d560b",
+    "Ngày Giờ": "2026-04-09T06:02:49.000Z",
+    "Số tiền": 69000,
+    "Ghi chú": "Bánh mì bánh lan sữa chua nếp cẩm bánh giò bà huynh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "09/04/2026 13:02"
+  },
+  {
+    "ID": "9a56f391",
+    "Ngày Giờ": "2026-04-10T08:06:55.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Hai bánh cuốn ba miền",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "10/04/2026 15:06"
+  },
+  {
+    "ID": "4101cf8f",
+    "Ngày Giờ": "2026-04-13T06:01:26.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "Bánh mì xôi khúc bánh giò Hà Nội",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "13/04/2026 13:01"
+  },
+  {
+    "ID": "dba628ac",
+    "Ngày Giờ": "2026-04-14T01:01:32.000Z",
+    "Số tiền": 88000,
+    "Ghi chú": "Hai phần mì tàu xá xíu thịt bằm",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "14/04/2026 08:01"
+  },
+  {
+    "ID": "cbcfb288",
+    "Ngày Giờ": "2026-04-14T01:01:50.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Hai phần sủi cảo",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "14/04/2026 08:01"
+  },
+  {
+    "ID": "46f6605d",
+    "Ngày Giờ": "2026-04-14T09:35:34.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Hai bánh cuốn 3 miền",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "14/04/2026 16:35"
+  },
+  {
+    "ID": "a955a04a",
+    "Ngày Giờ": "2026-04-15T14:39:38.000Z",
+    "Số tiền": 65000,
+    "Ghi chú": "Xôi mặn bánh chưng",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "15/04/2026 21:39"
+  },
+  {
+    "ID": "b6444a98",
+    "Ngày Giờ": "2026-04-15T14:43:31.000Z",
+    "Số tiền": 18000,
+    "Ghi chú": "Xe ôm chocola",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "15/04/2026 21:43"
+  },
+  {
+    "ID": "663769d3",
+    "Ngày Giờ": "2026-04-16T06:07:40.000Z",
+    "Số tiền": 60000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "16/04/2026 13:07"
+  },
+  {
+    "ID": "eaae9bdb",
+    "Ngày Giờ": "2026-04-17T07:03:35.000Z",
+    "Số tiền": 55000,
+    "Ghi chú": "Xôi mặn sữa chua nếp cẩm bà huynh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "17/04/2026 14:03"
+  },
+  {
+    "ID": "77eeee13",
+    "Ngày Giờ": "2026-04-18T06:51:01.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xe ôm mẹ về",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "18/04/2026 13:51"
+  },
+  {
+    "ID": "8b74f48b",
+    "Ngày Giờ": "2026-04-18T12:38:21.000Z",
+    "Số tiền": 116000,
+    "Ghi chú": "Bánh cuốn chả",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "18/04/2026 19:38"
+  },
+  {
+    "ID": "442b0d2f",
+    "Ngày Giờ": "2026-04-20T05:59:22.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "20/04/2026 12:59"
+  },
+  {
+    "ID": "cc1d19b5",
+    "Ngày Giờ": "2026-04-21T00:46:57.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "2 bánh mì heo quay",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "21/04/2026 07:46"
+  },
+  {
+    "ID": "b1ca1c52",
+    "Ngày Giờ": "2026-04-21T02:02:21.000Z",
+    "Số tiền": 51000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "21/04/2026 09:02"
+  },
+  {
+    "ID": "7e5aefc5",
+    "Ngày Giờ": "2026-04-21T06:35:54.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "Hai hủ tiếu mì o bé",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "21/04/2026 13:35"
+  },
+  {
+    "ID": "98b1fc27",
+    "Ngày Giờ": "2026-04-22T06:23:10.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Hai bánh cuốn 3 miền nhân tôm",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "22/04/2026 13:23"
+  },
+  {
+    "ID": "f56a87fc",
+    "Ngày Giờ": "2026-04-23T00:57:46.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "23/04/2026 07:57"
+  },
+  {
+    "ID": "f8f9fcab",
+    "Ngày Giờ": "2026-04-23T13:28:22.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "Hai phần sủi cảo",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "23/04/2026 20:28"
+  },
+  {
+    "ID": "8dcf52e4",
+    "Ngày Giờ": "2026-04-24T08:58:14.000Z",
+    "Số tiền": 54000,
+    "Ghi chú": "Xôi mặn sữa chua nếp cẩm bà huynh",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "24/04/2026 15:58"
+  },
+  {
+    "ID": "3ca43829",
+    "Ngày Giờ": "2026-04-25T05:19:44.000Z",
+    "Số tiền": 136000,
+    "Ghi chú": "7 cuốn chả",
+    "Tháng": "04/2026",
+    "Ngay_Gio_Vietnam": "25/04/2026 12:19"
+  },
+  {
+    "ID": "a27d4017",
+    "Ngày Giờ": "2026-04-26T06:22:22.000Z",
+    "Số tiền": 51000,
+    "Ghi chú": "Xe ôm mẹ về",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "26/04/2026 13:22"
+  },
+  {
+    "ID": "4c72667a",
+    "Ngày Giờ": "2026-04-26T10:13:05.000Z",
+    "Số tiền": 30000,
+    "Ghi chú": "Xe ôm 999 Bình",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "26/04/2026 17:13"
+  },
+  {
+    "ID": "4f530062",
+    "Ngày Giờ": "2026-04-26T10:47:43.000Z",
+    "Số tiền": 85000,
+    "Ghi chú": "Xe 4 chỗ qua 999",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "26/04/2026 17:47"
+  },
+  {
+    "ID": "26b48fbe",
+    "Ngày Giờ": "2026-04-26T15:18:25.000Z",
+    "Số tiền": 92000,
+    "Ghi chú": "Xe 6 chỗ về nhà",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "26/04/2026 22:18"
+  },
+  {
+    "ID": "78c02d3d",
+    "Ngày Giờ": "2026-04-28T00:42:38.000Z",
+    "Số tiền": 63000,
+    "Ghi chú": "Hai phần sủi cảo",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "28/04/2026 07:42"
+  },
+  {
+    "ID": "b7cda5d6",
+    "Ngày Giờ": "2026-04-28T06:36:22.000Z",
+    "Số tiền": 60200,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "28/04/2026 13:36"
+  },
+  {
+    "ID": "b289f30b",
+    "Ngày Giờ": "2026-05-01T10:35:06.000Z",
+    "Số tiền": 60080,
+    "Ghi chú": "Hai bánh cuốn 3 miền",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "01/05/2026 17:35"
+  },
+  {
+    "ID": "e85f755f",
+    "Ngày Giờ": "2026-05-01T10:35:25.000Z",
+    "Số tiền": 58000,
+    "Ghi chú": "Xe taxi đi qua ba số 9",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "01/05/2026 17:35"
+  },
+  {
+    "ID": "6e7d8b49",
+    "Ngày Giờ": "2026-05-01T15:12:55.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Xe taxi về",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "01/05/2026 22:12"
+  },
+  {
+    "ID": "e0a080d0",
+    "Ngày Giờ": "2026-05-02T06:42:43.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "5 bánh cuốn",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "02/05/2026 13:42"
+  },
+  {
+    "ID": "d4b20fe1",
+    "Ngày Giờ": "2026-05-03T00:24:33.000Z",
+    "Số tiền": 71600,
+    "Ghi chú": "2 sủi cảo nước",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "03/05/2026 07:24"
+  },
+  {
+    "ID": "9ad98a06",
+    "Ngày Giờ": "2026-05-06T03:36:23.000Z",
+    "Số tiền": 62200,
+    "Ghi chú": "Bánh mì bà huynh",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "06/05/2026 10:36"
+  },
+  {
+    "ID": "b32435a0",
+    "Ngày Giờ": "2026-05-06T03:36:58.000Z",
+    "Số tiền": 70800,
+    "Ghi chú": "3 bánh mì heo quay",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "06/05/2026 10:36"
+  },
+  {
+    "ID": "d495c595",
+    "Ngày Giờ": "2026-05-07T01:13:01.000Z",
+    "Số tiền": 39000,
+    "Ghi chú": "Gói tiết kiệm",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "07/05/2026 08:13"
+  },
+  {
+    "ID": "b9afdb5c",
+    "Ngày Giờ": "2026-05-07T01:13:27.000Z",
+    "Số tiền": 93800,
+    "Ghi chú": "2 phở bò Đan Phượng và 3 quẩy",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "07/05/2026 08:13"
+  },
+  {
+    "ID": "c3e07598",
+    "Ngày Giờ": "2026-05-07T01:18:00.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Xôi gà Chú Mười",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "07/05/2026 08:18"
+  },
+  {
+    "ID": "d972c7d1",
+    "Ngày Giờ": "2026-05-08T01:11:35.000Z",
+    "Số tiền": 98400,
+    "Ghi chú": "Hai mì Tàu",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "08/05/2026 08:11"
+  },
+  {
+    "ID": "6c0f3eb2",
+    "Ngày Giờ": "2026-05-10T10:07:39.000Z",
+    "Số tiền": 116000,
+    "Ghi chú": "6 cuốn + chả",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "10/05/2026 17:07"
+  },
+  {
+    "ID": "2313d373",
+    "Ngày Giờ": "2026-05-11T08:00:46.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "11/05/2026 15:00"
+  },
+  {
+    "ID": "055988a3",
+    "Ngày Giờ": "2026-05-11T14:46:30.000Z",
+    "Số tiền": 77800,
+    "Ghi chú": "Bánh bột lọc",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "11/05/2026 21:46"
+  },
+  {
+    "ID": "1f3cfab2",
+    "Ngày Giờ": "2026-05-11T14:47:43.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "11/05/2026 21:47"
+  },
+  {
+    "ID": "289768a8",
+    "Ngày Giờ": "2026-05-11T14:48:45.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Xe ôm về",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "11/05/2026 21:48"
+  },
+  {
+    "ID": "dbd1bb1b",
+    "Ngày Giờ": "2026-05-12T14:57:54.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Xe taxi về",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "12/05/2026 21:57"
+  },
+  {
+    "ID": "62e3fd1f",
+    "Ngày Giờ": "2026-05-13T00:50:26.000Z",
+    "Số tiền": 75800,
+    "Ghi chú": "3 bánh mì heo quay",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "13/05/2026 07:50"
+  },
+  {
+    "ID": "ff01d926",
+    "Ngày Giờ": "2026-05-13T04:38:54.000Z",
+    "Số tiền": 32000,
+    "Ghi chú": "Xe ôm qua 999",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "13/05/2026 11:38"
+  },
+  {
+    "ID": "9346858d",
+    "Ngày Giờ": "2026-05-13T05:54:08.000Z",
+    "Số tiền": 65200,
+    "Ghi chú": "Xôi gà chú mười và xôi thêm",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "13/05/2026 12:54"
+  },
+  {
+    "ID": "8b28f06f",
+    "Ngày Giờ": "2026-05-14T00:56:37.000Z",
+    "Số tiền": 98400,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "14/05/2026 07:56"
+  },
+  {
+    "ID": "8f7ed395",
+    "Ngày Giờ": "2026-05-15T06:36:24.000Z",
+    "Số tiền": 62000,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "15/05/2026 13:36"
+  },
+  {
+    "ID": "634c1086",
+    "Ngày Giờ": "2026-05-17T06:50:17.000Z",
+    "Số tiền": 62000,
+    "Ghi chú": "Xe taxi đi qua Nội",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "17/05/2026 13:50"
+  },
+  {
+    "ID": "9608bce6",
+    "Ngày Giờ": "2026-05-17T06:50:35.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "Xe taxi đi về nhà",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "17/05/2026 13:50"
+  },
+  {
+    "ID": "8d9456d2",
+    "Ngày Giờ": "2026-05-18T05:56:44.000Z",
+    "Số tiền": 59240,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "18/05/2026 12:56"
+  },
+  {
+    "ID": "0655deec",
+    "Ngày Giờ": "2026-05-19T00:11:53.000Z",
+    "Số tiền": 74480,
+    "Ghi chú": "2 bún bò suna",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "19/05/2026 07:11"
+  },
+  {
+    "ID": "c6310cfb",
+    "Ngày Giờ": "2026-05-20T00:35:33.000Z",
+    "Số tiền": 63200,
+    "Ghi chú": "Xôi gà chú Mười",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "20/05/2026 07:35"
+  },
+  {
+    "ID": "73a4a848",
+    "Ngày Giờ": "2026-05-20T00:56:39.000Z",
+    "Số tiền": 68100,
+    "Ghi chú": "2 sủi cảo nước",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "20/05/2026 07:56"
+  },
+  {
+    "ID": "54387e3c",
+    "Ngày Giờ": "2026-05-20T05:51:41.000Z",
+    "Số tiền": 61400,
+    "Ghi chú": "Xôi mặn bánh flan bà huynh",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "20/05/2026 12:51"
+  },
+  {
+    "ID": "9a847fef",
+    "Ngày Giờ": "2026-05-21T06:51:27.000Z",
+    "Số tiền": 128500,
+    "Ghi chú": "7 ly dừa tắc",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "21/05/2026 13:51"
+  },
+  {
+    "ID": "0af68cde",
+    "Ngày Giờ": "2026-05-25T06:27:14.000Z",
+    "Số tiền": 57240,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "25/05/2026 13:27"
+  },
+  {
+    "ID": "c12334c1",
+    "Ngày Giờ": "2026-05-25T14:10:34.000Z",
+    "Số tiền": 32000,
+    "Ghi chú": "Xe ôm qua 999",
+    "Tháng": "05/2026",
+    "Ngay_Gio_Vietnam": "25/05/2026 21:10"
+  },
+  {
+    "ID": "addb3f02",
+    "Ngày Giờ": "2026-05-26T06:06:34.000Z",
+    "Số tiền": 76400,
+    "Ghi chú": "Bún bò suna",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "26/05/2026 13:06"
+  },
+  {
+    "ID": "a355979f",
+    "Ngày Giờ": "2026-05-26T06:06:53.000Z",
+    "Số tiền": 71000,
+    "Ghi chú": "Cơm tấm ba rọi bì",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "26/05/2026 13:06"
+  },
+  {
+    "ID": "63ae9789",
+    "Ngày Giờ": "2026-05-27T00:44:57.000Z",
+    "Số tiền": 93700,
+    "Ghi chú": "2 phở gân",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "27/05/2026 07:44"
+  },
+  {
+    "ID": "1c62408f",
+    "Ngày Giờ": "2026-05-28T15:48:10.000Z",
+    "Số tiền": 71200,
+    "Ghi chú": "2 hủ tiếu mì o nhớ",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "28/05/2026 22:48"
+  },
+  {
+    "ID": "a5628d58",
+    "Ngày Giờ": "2026-05-28T15:48:36.000Z",
+    "Số tiền": 57240,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "28/05/2026 22:48"
+  },
+  {
+    "ID": "7ca71abd",
+    "Ngày Giờ": "2026-05-29T09:57:46.000Z",
+    "Số tiền": 63200,
+    "Ghi chú": "Xôi gà chú Mười",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "29/05/2026 16:57"
+  },
+  {
+    "ID": "3dc911bf",
+    "Ngày Giờ": "2026-05-30T01:01:38.000Z",
+    "Số tiền": 98400,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "30/05/2026 08:01"
+  },
+  {
+    "ID": "23f56ca3",
+    "Ngày Giờ": "2026-06-01T05:53:00.000Z",
+    "Số tiền": 58240,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "01/06/2026 12:53"
+  },
+  {
+    "ID": "c7c957b2",
+    "Ngày Giờ": "2026-06-01T14:44:55.000Z",
+    "Số tiền": 64080,
+    "Ghi chú": "2 hoành thánh",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "01/06/2026 21:44"
+  },
+  {
+    "ID": "a73b3696",
+    "Ngày Giờ": "2026-06-03T03:58:42.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "Xe ôm bệnh viện về",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "03/06/2026 10:58"
+  },
+  {
+    "ID": "d773399f",
+    "Ngày Giờ": "2026-06-04T08:07:46.000Z",
+    "Số tiền": 71200,
+    "Ghi chú": "2 hủ tiếu mì",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "04/06/2026 15:07"
+  },
+  {
+    "ID": "a43c9eb9",
+    "Ngày Giờ": "2026-06-04T08:08:04.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "5 bánh plan",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "04/06/2026 15:08"
+  },
+  {
+    "ID": "abe0ba6b",
+    "Ngày Giờ": "2026-06-04T08:08:27.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "04/06/2026 15:08"
+  },
+  {
+    "ID": "3261918a",
+    "Ngày Giờ": "2026-06-05T06:02:30.000Z",
+    "Số tiền": 65000,
+    "Ghi chú": "Cơm tấm Long Xuyên",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "05/06/2026 13:02"
+  },
+  {
+    "ID": "8106f83c",
+    "Ngày Giờ": "2026-06-05T11:57:35.000Z",
+    "Số tiền": 19000,
+    "Ghi chú": "Xe ôm ra bến xe",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "05/06/2026 18:57"
+  },
+  {
+    "ID": "4f4c2dfb",
+    "Ngày Giờ": "2026-06-07T10:48:29.000Z",
+    "Số tiền": 79000,
+    "Ghi chú": "0.5 kg Bánh bột lọc",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "07/06/2026 17:48"
+  },
+  {
+    "ID": "ba95567a",
+    "Ngày Giờ": "2026-06-08T05:38:48.000Z",
+    "Số tiền": 47000,
+    "Ghi chú": "Xôi gà chú Mười",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "08/06/2026 12:38"
+  },
+  {
+    "ID": "5efa6719",
+    "Ngày Giờ": "2026-06-08T09:17:31.000Z",
+    "Số tiền": 32000,
+    "Ghi chú": "Xe ôm qua 999",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "08/06/2026 16:17"
+  },
+  {
+    "ID": "1d13c3a8",
+    "Ngày Giờ": "2026-06-10T15:19:03.000Z",
+    "Số tiền": 39000,
+    "Ghi chú": "Gói tiết kiệm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "10/06/2026 22:19"
+  },
+  {
+    "ID": "a1b9be54",
+    "Ngày Giờ": "2026-06-10T15:19:56.000Z",
+    "Số tiền": 71200,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "10/06/2026 22:19"
+  },
+  {
+    "ID": "ae29a46d",
+    "Ngày Giờ": "2026-06-10T15:20:19.000Z",
+    "Số tiền": 54400,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "10/06/2026 22:20"
+  },
+  {
+    "ID": "2ea87e8b",
+    "Ngày Giờ": "2026-06-10T15:20:39.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "Cơm tấm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "10/06/2026 22:20"
+  },
+  {
+    "ID": "9e49b94b",
+    "Ngày Giờ": "2026-06-12T01:09:07.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "12/06/2026 08:09"
+  },
+  {
+    "ID": "8dcd1305",
+    "Ngày Giờ": "2026-06-12T01:09:22.000Z",
+    "Số tiền": 76400,
+    "Ghi chú": "2 bún bò suna",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "12/06/2026 08:09"
+  },
+  {
+    "ID": "808c06f5",
+    "Ngày Giờ": "2026-06-12T05:57:00.000Z",
+    "Số tiền": 79000,
+    "Ghi chú": "Xôi gà chú Mười + 3 xíu mại",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "12/06/2026 12:57"
+  },
+  {
+    "ID": "a5ceac89",
+    "Ngày Giờ": "2026-06-14T11:40:37.000Z",
+    "Số tiền": 67000,
+    "Ghi chú": "5 bánh cuốn không",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "14/06/2026 18:40"
+  },
+  {
+    "ID": "08b4b5e2",
+    "Ngày Giờ": "2026-06-15T05:58:25.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Bánh canh cua",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "15/06/2026 12:58"
+  },
+  {
+    "ID": "154c7938",
+    "Ngày Giờ": "2026-06-16T14:55:32.000Z",
+    "Số tiền": 72200,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "16/06/2026 21:55"
+  },
+  {
+    "ID": "642be76b",
+    "Ngày Giờ": "2026-06-16T14:55:56.000Z",
+    "Số tiền": 74000,
+    "Ghi chú": "Xôi gà chú Mười và xôi 3 xíu mại",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "16/06/2026 21:55"
+  },
+  {
+    "ID": "2c06258f",
+    "Ngày Giờ": "2026-06-17T07:26:28.000Z",
+    "Số tiền": 55360,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "17/06/2026 14:26"
+  },
+  {
+    "ID": "e93ca49d",
+    "Ngày Giờ": "2026-06-18T06:47:41.000Z",
+    "Số tiền": 63000,
+    "Ghi chú": "Cơm tấm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "18/06/2026 13:47"
+  },
+  {
+    "ID": "fd31b0b8",
+    "Ngày Giờ": "2026-06-18T06:47:56.000Z",
+    "Số tiền": 59000,
+    "Ghi chú": "5 bánh plan bà huynh",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "18/06/2026 13:47"
+  },
+  {
+    "ID": "22cef3c4",
+    "Ngày Giờ": "2026-06-19T12:52:06.000Z",
+    "Số tiền": 37000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "19/06/2026 19:52"
+  },
+  {
+    "ID": "9c19835b",
+    "Ngày Giờ": "2026-06-19T12:52:18.000Z",
+    "Số tiền": 14000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "19/06/2026 19:52"
+  },
+  {
+    "ID": "878ab517",
+    "Ngày Giờ": "2026-06-21T09:59:56.000Z",
+    "Số tiền": 42000,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "21/06/2026 16:59"
+  },
+  {
+    "ID": "a34800c5",
+    "Ngày Giờ": "2026-06-21T10:00:36.000Z",
+    "Số tiền": 122000,
+    "Ghi chú": "Xe hơi",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "21/06/2026 17:00"
+  },
+  {
+    "ID": "b1b9a81b",
+    "Ngày Giờ": "2026-06-22T05:50:15.000Z",
+    "Số tiền": 73550,
+    "Ghi chú": "Xôi gà chú Mười và xôi 3 xíu mại",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "22/06/2026 12:50"
+  },
+  {
+    "ID": "2ed22688",
+    "Ngày Giờ": "2026-06-23T07:30:36.000Z",
+    "Số tiền": 67400,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "23/06/2026 14:30"
+  },
+  {
+    "ID": "3d691520",
+    "Ngày Giờ": "2026-06-23T07:30:56.000Z",
+    "Số tiền": 63000,
+    "Ghi chú": "Cơm tấm thêm sườn",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "23/06/2026 14:30"
+  },
+  {
+    "ID": "8b5cafda",
+    "Ngày Giờ": "2026-06-25T03:29:22.000Z",
+    "Số tiền": 55000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "25/06/2026 10:29"
+  },
+  {
+    "ID": "063a6cd1",
+    "Ngày Giờ": "2026-06-25T15:00:33.000Z",
+    "Số tiền": 55000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "06/2026",
+    "Ngay_Gio_Vietnam": "25/06/2026 22:00"
+  },
+  {
+    "ID": "25f78785",
+    "Ngày Giờ": "2026-06-26T05:44:04.000Z",
+    "Số tiền": 72000,
+    "Ghi chú": "Xôi gà chú Mười và xôi 3 xíu mại",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "26/06/2026 12:44"
+  },
+  {
+    "ID": "e61046c6",
+    "Ngày Giờ": "2026-06-27T11:52:27.000Z",
+    "Số tiền": 107000,
+    "Ghi chú": "6 bánh cuốn và chả",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "27/06/2026 18:52"
+  },
+  {
+    "ID": "39797ea9",
+    "Ngày Giờ": "2026-06-29T05:49:14.000Z",
+    "Số tiền": 62800,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "29/06/2026 12:49"
+  },
+  {
+    "ID": "4407fed4",
+    "Ngày Giờ": "2026-06-30T08:34:31.000Z",
+    "Số tiền": 34326,
+    "Ghi chú": "2 bánh mì và chả chiên",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "30/06/2026 15:34"
+  },
+  {
+    "ID": "c5fe788c",
+    "Ngày Giờ": "2026-07-01T01:02:57.000Z",
+    "Số tiền": 79000,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "01/07/2026 08:02"
+  },
+  {
+    "ID": "74abeb62",
+    "Ngày Giờ": "2026-07-01T04:08:13.000Z",
+    "Số tiền": 46000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "01/07/2026 11:08"
+  },
+  {
+    "ID": "caa3b3c2",
+    "Ngày Giờ": "2026-07-01T06:21:33.000Z",
+    "Số tiền": 50000,
+    "Ghi chú": "Xôi gà chú Mười",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "01/07/2026 13:21"
+  },
+  {
+    "ID": "111d60d8",
+    "Ngày Giờ": "2026-07-02T06:48:05.000Z",
+    "Số tiền": 61200,
+    "Ghi chú": "2 bún bò suna",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "02/07/2026 13:48"
+  },
+  {
+    "ID": "60bfb822",
+    "Ngày Giờ": "2026-07-02T06:48:23.000Z",
+    "Số tiền": 65000,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "02/07/2026 13:48"
+  },
+  {
+    "ID": "3d87bd2e",
+    "Ngày Giờ": "2026-07-02T06:48:43.000Z",
+    "Số tiền": 37671,
+    "Ghi chú": "2 bánh mì và chả",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "02/07/2026 13:48"
+  },
+  {
+    "ID": "54ca4200",
+    "Ngày Giờ": "2026-07-03T06:44:49.000Z",
+    "Số tiền": 62500,
+    "Ghi chú": "Gà Jollibee",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "03/07/2026 13:44"
+  },
+  {
+    "ID": "c16ebd98",
+    "Ngày Giờ": "2026-07-06T06:41:47.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "2 bánh cuốn 3 miễn",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "06/07/2026 13:41"
+  },
+  {
+    "ID": "6cb3f615",
+    "Ngày Giờ": "2026-07-07T01:20:12.000Z",
+    "Số tiền": 81900,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "07/07/2026 08:20"
+  },
+  {
+    "ID": "9dca8365",
+    "Ngày Giờ": "2026-07-07T06:31:50.000Z",
+    "Số tiền": 36200,
+    "Ghi chú": "Bánh mì mập",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "07/07/2026 13:31"
+  },
+  {
+    "ID": "dd18a620",
+    "Ngày Giờ": "2026-07-08T01:14:47.000Z",
+    "Số tiền": 85980,
+    "Ghi chú": "2 bún bò sún + 20 bò viên thêm",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "08/07/2026 08:14"
+  },
+  {
+    "ID": "595d5555",
+    "Ngày Giờ": "2026-07-08T06:23:53.000Z",
+    "Số tiền": 77000,
+    "Ghi chú": "Xôi gà chú Mười và xíu mại",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "08/07/2026 13:23"
+  },
+  {
+    "ID": "ab39ab80",
+    "Ngày Giờ": "2026-07-09T07:29:58.000Z",
+    "Số tiền": 39000,
+    "Ghi chú": "Gói tiết kiệm",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "09/07/2026 14:29"
+  },
+  {
+    "ID": "633a2bc1",
+    "Ngày Giờ": "2026-07-09T07:30:11.000Z",
+    "Số tiền": 36200,
+    "Ghi chú": "Bánh mì mập",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "09/07/2026 14:30"
+  },
+  {
+    "ID": "d0cdbac5",
+    "Ngày Giờ": "2026-07-09T07:30:37.000Z",
+    "Số tiền": 64000,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "09/07/2026 14:30"
+  },
+  {
+    "ID": "dce1cd48",
+    "Ngày Giờ": "2026-07-09T07:30:52.000Z",
+    "Số tiền": 69000,
+    "Ghi chú": "6 bánh plan bà huynh",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "09/07/2026 14:30"
+  },
+  {
+    "ID": "8e56ee36",
+    "Ngày Giờ": "2026-07-10T07:03:19.000Z",
+    "Số tiền": 87200,
+    "Ghi chú": "2 sủi cảo mì hảo sifu",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "10/07/2026 14:03"
+  },
+  {
+    "ID": "f89e357e",
+    "Ngày Giờ": "2026-07-10T08:07:25.000Z",
+    "Số tiền": 104000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "10/07/2026 15:07"
+  },
+  {
+    "ID": "7b3d51cf",
+    "Ngày Giờ": "2026-07-13T16:04:45.000Z",
+    "Số tiền": 57000,
+    "Ghi chú": "2 bánh cuốn",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "13/07/2026 23:04"
+  },
+  {
+    "ID": "1ca3c2d7",
+    "Ngày Giờ": "2026-07-14T06:03:36.000Z",
+    "Số tiền": 37200,
+    "Ghi chú": "Bánh mì",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "14/07/2026 13:03"
+  },
+  {
+    "ID": "6b40eb75",
+    "Ngày Giờ": "2026-07-15T04:12:22.000Z",
+    "Số tiền": 56100,
+    "Ghi chú": "2 hoành thánh",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "15/07/2026 11:12"
+  },
+  {
+    "ID": "134732bb",
+    "Ngày Giờ": "2026-07-15T05:55:11.000Z",
+    "Số tiền": 66000,
+    "Ghi chú": "Xôi gà nướng mật ong",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "15/07/2026 12:55"
+  },
+  {
+    "ID": "7b6725ba",
+    "Ngày Giờ": "2026-07-17T00:58:33.000Z",
+    "Số tiền": 93150,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "17/07/2026 07:58"
+  },
+  {
+    "ID": "63c7ab14",
+    "Ngày Giờ": "2026-07-17T05:55:51.000Z",
+    "Số tiền": 46332,
+    "Ghi chú": "Bánh mì mập",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "17/07/2026 12:55"
+  },
+  {
+    "ID": "248c4c55",
+    "Ngày Giờ": "2026-07-20T01:02:56.000Z",
+    "Số tiền": 60100,
+    "Ghi chú": "2 hoành thánh",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "20/07/2026 08:02"
+  },
+  {
+    "ID": "e3caa7d2",
+    "Ngày Giờ": "2026-07-20T14:39:58.000Z",
+    "Số tiền": 52081,
+    "Ghi chú": "Bánh mì mập",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "20/07/2026 21:39"
+  },
+  {
+    "ID": "48249bfd",
+    "Ngày Giờ": "2026-07-21T00:37:47.000Z",
+    "Số tiền": 88000,
+    "Ghi chú": "2 bún bò suna",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "21/07/2026 07:37"
+  },
+  {
+    "ID": "db19b44f",
+    "Ngày Giờ": "2026-07-21T05:47:53.000Z",
+    "Số tiền": 74000,
+    "Ghi chú": "2 hủ tiếu mì o bé",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "21/07/2026 12:47"
+  },
+  {
+    "ID": "b6f3c667",
+    "Ngày Giờ": "2026-07-21T05:48:13.000Z",
+    "Số tiền": 58000,
+    "Ghi chú": "2 bánh cuốn 3 miền",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "21/07/2026 12:48"
+  },
+  {
+    "ID": "5c9a8922",
+    "Ngày Giờ": "2026-07-22T05:56:15.000Z",
+    "Số tiền": 52331,
+    "Ghi chú": "Bánh mì mập",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "22/07/2026 12:56"
+  },
+  {
+    "ID": "6f2a3555",
+    "Ngày Giờ": "2026-07-23T16:04:52.000Z",
+    "Số tiền": 73000,
+    "Ghi chú": "Xôi gà chú Mười và xíu mại",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "23/07/2026 23:04"
+  },
+  {
+    "ID": "e440bb03",
+    "Ngày Giờ": "2026-07-24T03:53:40.000Z",
+    "Số tiền": 61000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "24/07/2026 10:53"
+  },
+  {
+    "ID": "d10d00dc",
+    "Ngày Giờ": "2026-07-24T06:20:49.000Z",
+    "Số tiền": 96600,
+    "Ghi chú": "2 sủi cảo mì hảo sifu",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "24/07/2026 13:20"
+  },
+  {
+    "ID": "60e0f053",
+    "Ngày Giờ": "2026-07-25T08:57:07.000Z",
+    "Số tiền": 134000,
+    "Ghi chú": "6 bánh cuốn và chả",
+    "Tháng": "07/2026",
+    "Ngay_Gio_Vietnam": "25/07/2026 15:57"
+  },
+  {
+    "ID": "4f1a3d97",
+    "Ngày Giờ": "2026-07-27T03:40:12.000Z",
+    "Số tiền": 33000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "27/07/2026 10:40"
+  },
+  {
+    "ID": "636cb691",
+    "Ngày Giờ": "2026-07-27T05:40:12.000Z",
+    "Số tiền": 51000,
+    "Ghi chú": "Bún bò huế oty",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "27/07/2026 12:40"
+  },
+  {
+    "ID": "278251c7",
+    "Ngày Giờ": "2026-07-28T01:10:02.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "2 hoành thánh",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "28/07/2026 08:10"
+  },
+  {
+    "ID": "928ee1d4",
+    "Ngày Giờ": "2026-07-28T05:56:48.000Z",
+    "Số tiền": 48000,
+    "Ghi chú": "Xôi bánh mì mập",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "28/07/2026 12:56"
+  },
+  {
+    "ID": "399817de",
+    "Ngày Giờ": "2026-07-29T01:25:02.000Z",
+    "Số tiền": 77000,
+    "Ghi chú": "Bánh bột lọc",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "29/07/2026 08:25"
+  },
+  {
+    "ID": "d7f6056b",
+    "Ngày Giờ": "2026-07-29T05:48:07.000Z",
+    "Số tiền": 63000,
+    "Ghi chú": "Xôi gà chú Mười và xôi 3 xíu mại",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "29/07/2026 12:48"
+  },
+  {
+    "ID": "ff031aac",
+    "Ngày Giờ": "2026-07-30T01:18:22.000Z",
+    "Số tiền": 93000,
+    "Ghi chú": "2 mì tàu",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "30/07/2026 08:18"
+  },
+  {
+    "ID": "76083524",
+    "Ngày Giờ": "2026-07-30T14:09:36.000Z",
+    "Số tiền": 68000,
+    "Ghi chú": "2 mì sủi cảo",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "30/07/2026 21:09"
+  },
+  {
+    "ID": "d34c0cd5",
+    "Ngày Giờ": "2026-07-31T14:13:33.000Z",
+    "Số tiền": 55000,
+    "Ghi chú": "2 bánh canh chả cá",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "31/07/2026 21:13"
+  },
+  {
+    "ID": "fe7e2d39",
+    "Ngày Giờ": "2026-08-01T06:01:48.000Z",
+    "Số tiền": 93000,
+    "Ghi chú": "2 bún bò sún + 20 bò viên thêm",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "01/08/2026 13:01"
+  },
+  {
+    "ID": "0b0e3ce6",
+    "Ngày Giờ": "2026-08-03T05:47:13.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Xôi gà chú Mười và xôi 3 xíu mại",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "03/08/2026 12:47"
+  },
+  {
+    "ID": "d03e84be",
+    "Ngày Giờ": "2026-08-03T07:37:47.000Z",
+    "Số tiền": 29000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "03/08/2026 14:37"
+  },
+  {
+    "ID": "87cbb9a2",
+    "Ngày Giờ": "2026-08-04T01:11:59.000Z",
+    "Số tiền": 60000,
+    "Ghi chú": "Bánh cuốn",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "04/08/2026 08:11"
+  },
+  {
+    "ID": "a487da7d",
+    "Ngày Giờ": "2026-08-04T05:43:28.000Z",
+    "Số tiền": 33134,
+    "Ghi chú": "2 bánh mì và chả chiên",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "04/08/2026 12:43"
+  },
+  {
+    "ID": "6d483a80",
+    "Ngày Giờ": "2026-08-05T00:50:30.000Z",
+    "Số tiền": 91000,
+    "Ghi chú": "2 phở gân + quẩy",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "05/08/2026 07:50"
+  },
+  {
+    "ID": "62836f29",
+    "Ngày Giờ": "2026-08-05T05:50:25.000Z",
+    "Số tiền": 25000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "05/08/2026 12:50"
+  },
+  {
+    "ID": "aeb2fcd3",
+    "Ngày Giờ": "2026-08-05T05:50:39.000Z",
+    "Số tiền": 56000,
+    "Ghi chú": "Xôi gà chú Mười và xíu mại",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "05/08/2026 12:50"
+  },
+  {
+    "ID": "7e34dc22",
+    "Ngày Giờ": "2026-08-05T08:18:13.000Z",
+    "Số tiền": 34000,
+    "Ghi chú": "Xe ôm",
+    "Tháng": "08/2026",
+    "Ngay_Gio_Vietnam": "05/08/2026 15:18"
+  }
+]
